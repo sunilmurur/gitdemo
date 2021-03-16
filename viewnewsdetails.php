@@ -56,3 +56,7 @@ while($newsrow=mysqli_fetch_array($newsresult))
 </table>
 </body>
 </html>
+
+
+
+updated by naveen
