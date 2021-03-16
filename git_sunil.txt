@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<?php
+	include("admin/dbconnect.php");
+	?>
+	<title></title>
+</head>
+<body>
+<table border="1">
+	<tr>
+		<td>News Title</td>
+		<td>News Image</td>
+		<td>News Description</td>
+	</tr>
